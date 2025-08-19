@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(163, 135, 8)
+    border-bottom: solid 2px rgb(150, 8, 163);
     padding: 20px;
     font-size: 33px;
-    color: rgb(223, 190, 82)
+    color: rgb(167, 82, 223)
 }
 
 .chamada {
-    background: rgb(223, 174, 16);
+    background: rgb(147, 16, 223);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
