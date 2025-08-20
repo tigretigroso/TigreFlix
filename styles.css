@@ -1,6 +1,6 @@
 body {
     color: #836505;
-    background: #af8702;
+    background: #836505;
     margin: 0px;
     font-family: "Darumadrop One";
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(147, 16, 223);
+    background: rgb(223, 174, 16);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
